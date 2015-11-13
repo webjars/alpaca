@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>alpaca</artifactId>
-    <version>1.5.14</version>
+    <version>1.5.15-SNAPSHOT</version>
     <name>Alpaca - Easy Forms for jQuery</name>
     <description>Webjar for Alpaca Forms</description>
     <url>https://github.com/gitana/alpaca/blob/master/src/js/Alpaca.js</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/alpaca</url>
         <connection>scm:git:https://github.com/webjars/alpaca.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/alpaca.git</developerConnection>
-        <tag>alpaca-1.5.14</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
