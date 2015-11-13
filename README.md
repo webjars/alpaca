@@ -1,4 +1,4 @@
 # webjar-alpacajs
-Webjar packaging for Alpaca Forms
+Alpaca Forms webjar
 
 Upstream : https://github.com/gitana/alpaca
