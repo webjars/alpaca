@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>alpaca</artifactId>
-    <version>1.5.15-SNAPSHOT</version>
+    <version>1.5.23-SNAPSHOT</version>
     <name>Alpaca - Easy Forms for jQuery</name>
     <description>Webjar for Alpaca Forms</description>
     <url>https://github.com/gitana/alpaca/blob/master/src/js/Alpaca.js</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>1.5.14</upstream.version>
+        <upstream.version>1.5.23</upstream.version>
         <upstream.url>https://github.com/gitana/alpaca/archive/${upstream.version}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
